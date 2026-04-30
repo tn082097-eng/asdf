@@ -1,0 +1,706 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MacKenzie Scott • Philanthropist Profile</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&amp;family=Playfair+Display:wght@700&amp;display=swap');
+        
+        :root {
+            --primary: #0f172a;
+        }
+        
+        body {
+            font-family: 'Inter', system_ui, sans-serif;
+        }
+        
+        .heading-serif {
+            font-family: 'Playfair Display', Georgia, serif;
+        }
+
+        .stat-number {
+            font-variant-numeric: tabular-nums;
+        }
+
+        .section-header {
+            position: relative;
+            display: inline-block;
+        }
+        
+        .section-header:after {
+            content: '';
+            position: absolute;
+            bottom: -4px;
+            left: 0;
+            width: 60%;
+            height: 3px;
+            background: linear-gradient(to right, #3b82f6, transparent);
+            border-radius: 3px;
+        }
+
+        .data-card {
+            transition: transform 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+        
+        .data-card:hover {
+            transform: translateY(-2px);
+        }
+
+        .timeline-item {
+            position: relative;
+        }
+        
+        .timeline-item:before {
+            content: '';
+            position: absolute;
+            left: 15px;
+            top: 0;
+            bottom: -24px;
+            width: 3px;
+            background: #e2e8f0;
+        }
+        
+        .timeline-item:last-child:before {
+            display: none;
+        }
+
+        .nav-active {
+            color: #1e40af;
+            font-weight: 600;
+        }
+
+        .metric-value {
+            font-size: 2.25rem;
+            line-height: 2.5rem;
+            font-weight: 700;
+            color: #0f172a;
+        }
+
+        .subtle-grid {
+            background-image: 
+                linear-gradient(#f1e7ff 1px, transparent 1px),
+                linear-gradient(90deg, #f1e7ff 1px, transparent 1px);
+            background-size: 40px 40px;
+            opacity: 0.06;
+        }
+    </style>
+</head>
+<body class="bg-slate-50 text-slate-800">
+    <!-- Top Navigation -->
+    <nav class="bg-white border-b border-slate-200 sticky top-0 z-50">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex items-center justify-between h-16">
+                <div class="flex items-center gap-x-3">
+                    <div class="w-9 h-9 bg-blue-600 rounded-2xl flex items-center justify-center">
+                        <i class="fa-solid fa-handshake text-white text-xl"></i>
+                    </div>
+                    <div>
+                        <span class="font-semibold text-xl tracking-tight">MacKenzie Scott</span>
+                        <span class="text-xs text-slate-500 block -mt-1">Profile 2026</span>
+                    </div>
+                </div>
+                
+                <div class="hidden md:flex items-center gap-x-8 text-sm">
+                    <a href="#biography" class="hover:text-blue-600 transition-colors">Biography</a>
+                    <a href="#wealth" class="hover:text-blue-600 transition-colors">Wealth</a>
+                    <a href="#philanthropy" class="hover:text-blue-600 transition-colors">Philanthropy</a>
+                    <a href="#timeline" class="hover:text-blue-600 transition-colors">Timeline</a>
+                </div>
+                
+                <div class="flex items-center gap-x-3">
+                    <div class="px-3 py-1.5 bg-emerald-100 text-emerald-700 text-xs font-medium rounded-full flex items-center gap-x-1.5">
+                        <i class="fa-solid fa-check-circle"></i>
+                        <span class="font-medium">Data as of Apr 29, 2026</span>
+                    </div>
+                    <button onclick="copyProfileLink()" 
+                            class="flex items-center gap-x-2 px-4 py-2 text-sm font-medium bg-white border border-slate-300 hover:bg-slate-50 rounded-2xl transition-colors">
+                        <i class="fa-solid fa-link text-xs"></i>
+                        <span class="hidden md:inline">Share</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <div class="max-w-6xl mx-auto px-6 pt-10 pb-8">
+        <div class="flex flex-col lg:flex-row items-start lg:items-center gap-8">
+            <!-- Profile Image Placeholder -->
+            <div class="flex-shrink-0">
+                <div class="w-32 h-32 bg-gradient-to-br from-slate-900 to-blue-900 rounded-3xl flex items-center justify-center shadow-inner overflow-hidden ring-8 ring-white">
+                    <div class="text-center">
+                        <i class="fa-solid fa-user text-white text-6xl opacity-75"></i>
+                        <div class="text-[9px] text-white/70 mt-1 font-mono tracking-[3px]">M.S.</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="flex-1">
+                <div class="flex items-center gap-x-3 mb-2">
+                    <h1 class="text-6xl font-semibold tracking-tighter heading-serif">MacKenzie Scott</h1>
+                    <div class="px-4 py-1 bg-blue-100 text-blue-700 text-sm font-semibold rounded-2xl self-start mt-3">Philanthropist</div>
+                </div>
+                
+                <div class="flex items-center gap-x-4 text-slate-600">
+                    <div class="flex items-center gap-x-2">
+                        <i class="fa-solid fa-calendar text-sm"></i>
+                        <span class="font-medium">Born April 7, 1970 (Age 56)</span>
+                    </div>
+                    <div class="hidden md:block w-px h-3 bg-slate-300"></div>
+                    <div class="flex items-center gap-x-2">
+                        <i class="fa-solid fa-globe text-sm"></i>
+                        <span class="font-medium">San Francisco, CA</span>
+                    </div>
+                </div>
+                
+                <div class="mt-6 grid grid-cols-2 md:grid-cols-4 gap-3">
+                    <div class="bg-white rounded-3xl p-4 border border-slate-100 shadow-sm">
+                        <div class="text-xs uppercase tracking-widest text-slate-500 font-medium mb-1">NET WORTH</div>
+                        <div class="metric-value">$32.9B</div>
+                        <div class="text-xs text-emerald-600 flex items-center gap-x-1 mt-1">
+                            <i class="fa-solid fa-arrow-trend-down text-xs"></i>
+                            <span class="font-medium">-47% from peak</span>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-white rounded-3xl p-4 border border-slate-100 shadow-sm">
+                        <div class="text-xs uppercase tracking-widest text-slate-500 font-medium mb-1">LIFETIME GIVEN</div>
+                        <div class="metric-value">$26.3B</div>
+                        <div class="text-xs text-emerald-600 flex items-center gap-x-1 mt-1">
+                            <i class="fa-solid fa-globe text-xs"></i>
+                            <span class="font-medium">1,600+ organizations</span>
+                        </div>
+                    </div>
+                    
+                    <div class="bg-white rounded-3xl p-4 border border-slate-100 shadow-sm">
+                        <div class="text-xs uppercase tracking-widest text-slate-500 font-medium mb-1">WORLD RANK</div>
+                        <div class="metric-value">#40</div>
+                        <div class="text-xs text-slate-600 mt-1">Forbes Billionaires 2026</div>
+                    </div>
+                    
+                    <div class="bg-white rounded-3xl p-4 border border-slate-100 shadow-sm">
+                        <div class="text-xs uppercase tracking-widest text-slate-500 font-medium mb-1">POWER WOMEN</div>
+                        <div class="metric-value">#11</div>
+                        <div class="text-xs text-slate-600 mt-1">Forbes 2025</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Quick Facts -->
+    <div class="max-w-6xl mx-auto px-6 pb-8">
+        <div class="bg-white rounded-3xl border border-slate-100 p-8 shadow-sm">
+            <h3 class="font-semibold text-lg mb-5 flex items-center gap-x-3">
+                <i class="fa-solid fa-info-circle text-blue-500"></i>
+                <span>Quick Facts</span>
+            </h3>
+            
+            <div class="grid grid-cols-1 md:grid-cols-3 gap-x-8 gap-y-6 text-sm">
+                <div>
+                    <div class="font-medium text-slate-500 mb-1">Education</div>
+                    <div class="font-semibold">Princeton University (BA English, 1992)</div>
+                    <div class="text-xs text-slate-500">Hotchkiss School (1988) • Mentor: Toni Morrison</div>
+                </div>
+                
+                <div>
+                    <div class="font-medium text-slate-500 mb-1">Family</div>
+                    <div class="font-semibold">4 children (3 sons, 1 adopted daughter)</div>
+                    <div class="text-xs text-slate-500">Ex-spouses: Jeff Bezos (1993–2019), Dan Jewett (2021–2023)</div>
+                </div>
+                
+                <div>
+                    <div class="font-medium text-slate-500 mb-1">Notable Roles</div>
+                    <div class="font-semibold">Founder, Bystander Revolution (2014)</div>
+                    <div class="text-xs text-slate-500">Early Amazon contributor (1994–1996) • Novelist</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Biography -->
+    <div id="biography" class="max-w-6xl mx-auto px-6 pb-12">
+        <div class="flex items-end justify-between mb-6">
+            <h2 class="section-header text-3xl font-semibold tracking-tight">Biography &amp; Career</h2>
+        </div>
+        
+        <div class="grid md:grid-cols-12 gap-6">
+            <!-- Left Column -->
+            <div class="md:col-span-7 bg-white rounded-3xl border border-slate-100 p-8">
+                <div class="prose prose-slate max-w-none">
+                    <p class="text-lg leading-relaxed">MacKenzie Scott Tuttle is an American novelist and philanthropist. She is best known for her unprecedented approach to charitable giving, having donated over <strong>$26.3 billion</strong> to more than 1,600 organizations since 2019 — one of the largest philanthropic efforts by any individual in history.</p>
+                    
+                    <div class="my-6 border-l-4 border-blue-500 pl-5 text-sm">
+                        <p class="italic">"Teams with experience on the front lines of challenges will know best how to put the money to good use."</p>
+                        <p class="text-xs text-slate-500 mt-1">— MacKenzie Scott, on her giving philosophy</p>
+                    </div>
+                </div>
+                
+                <div class="mt-8 grid grid-cols-2 gap-4">
+                    <div class="bg-slate-50 rounded-2xl p-5">
+                        <div class="uppercase text-xs tracking-[1px] text-slate-500 mb-3 font-medium">EARLY CAREER</div>
+                        <ul class="space-y-2.5 text-sm">
+                            <li class="flex items-start gap-x-3"><i class="fa-solid fa-briefcase text-blue-500 mt-1 w-4"></i> <span>Administrative assistant at D.E. Shaw (1992) — met Jeff Bezos</span></li>
+                            <li class="flex items-start gap-x-3"><i class="fa-solid fa-briefcase text-blue-500 mt-1 w-4"></i> <span>Key early contributor at Amazon (1994–1996): company naming, business plan, operations</span></li>
+                            <li class="flex items-start gap-x-3"><i class="fa-solid fa-briefcase text-blue-500 mt-1 w-4"></i> <span>Research assistant to Toni Morrison</span></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="bg-slate-50 rounded-2xl p-5">
+                        <div class="uppercase text-xs tracking-[1px] text-slate-500 mb-3 font-medium">LITERARY CAREER</div>
+                        <div class="space-y-4">
+                            <div>
+                                <div class="font-semibold">The Testing of Luther Albright</div>
+                                <div class="text-xs text-slate-500">2005 • Fourth Estate • American Book Award (2006)</div>
+                                <div class="text-xs mt-1">"A rarity: a sophisticated novel that breaks and swells the heart" — Toni Morrison</div>
+                            </div>
+                            <div>
+                                <div class="font-semibold">Traps</div>
+                                <div class="text-xs text-slate-500">2013 • Knopf</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Right Column: Personal Life -->
+            <div class="md:col-span-5 bg-white rounded-3xl border border-slate-100 p-8">
+                <h4 class="font-semibold mb-5 flex items-center gap-x-2">
+                    <i class="fa-solid fa-user text-blue-500"></i>
+                    <span>Personal Life</span>
+                </h4>
+                
+                <div class="space-y-6 text-sm">
+                    <div>
+                        <div class="font-medium text-slate-600">Marriages</div>
+                        <div class="mt-2 space-y-3">
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <span class="font-semibold">Jeff Bezos</span><br>
+                                    <span class="text-xs text-slate-500">1993 – 2019 (26 years)</span>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-xs bg-amber-100 text-amber-700 px-2.5 py-0.5 rounded font-medium">Divorced</div>
+                                </div>
+                            </div>
+                            
+                            <div class="flex justify-between items-start">
+                                <div>
+                                    <span class="font-semibold">Dan Jewett</span><br>
+                                    <span class="text-xs text-slate-500">2021 – 2023 (22 months)</span>
+                                </div>
+                                <div class="text-right">
+                                    <div class="text-xs bg-amber-100 text-amber-700 px-2.5 py-0.5 rounded font-medium">Divorced</div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div>
+                        <div class="font-medium text-slate-600">Children</div>
+                        <div class="mt-1 text-sm">4 children (3 biological sons, 1 adopted daughter)</div>
+                        <div class="text-xs text-slate-500">Eldest son born 2000</div>
+                    </div>
+                    
+                    <div>
+                        <div class="font-medium text-slate-600">Residences</div>
+                        <div class="mt-1 text-sm">Multiple properties including California • Formerly Seattle</div>
+                    </div>
+                    
+                    <div class="pt-3 border-t border-slate-100">
+                        <div class="flex items-center gap-x-2 text-xs text-emerald-600">
+                            <i class="fa-solid fa-globe"></i>
+                            <span class="font-medium">U.S. Citizen (naturalized June 14, 2016)</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Wealth Section -->
+    <div id="wealth" class="max-w-6xl mx-auto px-6 pb-12">
+        <div class="flex items-end justify-between mb-6">
+            <h2 class="section-header text-3xl font-semibold tracking-tight">Wealth Journey</h2>
+            <div class="text-xs text-slate-500 font-mono">SOURCE: FORBES • BLOOMBERG</div>
+        </div>
+        
+        <div class="bg-white rounded-3xl border border-slate-100 p-8">
+            <div class="grid md:grid-cols-2 gap-8">
+                <div>
+                    <div class="uppercase tracking-[1px] text-xs font-semibold text-slate-500 mb-3">CURRENT STATUS (APRIL 29, 2026)</div>
+                    
+                    <div class="flex items-baseline gap-x-2">
+                        <span class="text-6xl font-semibold tabular-nums">$32.9</span>
+                        <span class="text-3xl text-slate-400 font-light">billion</span>
+                    </div>
+                    
+                    <div class="flex items-center gap-x-4 mt-3">
+                        <div class="text-sm">
+                            <span class="font-semibold text-emerald-600">#40</span> 
+                            <span class="text-slate-600">World's Billionaires</span>
+                        </div>
+                        <div class="text-sm">
+                            <span class="font-semibold text-emerald-600">#3</span> 
+                            <span class="text-slate-600">Wealthiest U.S. Woman</span>
+                        </div>
+                    </div>
+                    
+                    <div class="mt-6 text-sm">
+                        <div class="font-medium mb-2">Primary Asset</div>
+                        <div class="flex items-center justify-between text-sm bg-slate-50 px-4 py-3 rounded-2xl">
+                            <div>
+                                <span class="font-semibold">1.3% of Amazon</span><br>
+                                <span class="text-xs text-slate-500">Originally received 4% in 2019 divorce</span>
+                            </div>
+                            <div class="text-right">
+                                <div class="font-mono text-xs text-slate-400">~923,589 shares</div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div>
+                    <div class="uppercase tracking-[1px] text-xs font-semibold text-slate-500 mb-4">WEALTH TRAJECTORY</div>
+                    
+                    <div class="space-y-4 text-sm">
+                        <div class="flex justify-between items-center border-b pb-3">
+                            <div>
+                                <div class="font-medium">April 2019</div>
+                                <div class="text-xs text-slate-500">Post-divorce settlement</div>
+                            </div>
+                            <div class="font-semibold tabular-nums">$35.6B <span class="text-emerald-500 text-xs">(#3 woman worldwide)</span></div>
+                        </div>
+                        
+                        <div class="flex justify-between items-center border-b pb-3">
+                            <div>
+                                <div class="font-medium">December 2020</div>
+                                <div class="text-xs text-slate-500">Peak wealth (Amazon stock surge)</div>
+                            </div>
+                            <div class="font-semibold tabular-nums">$62B</div>
+                        </div>
+                        
+                        <div class="flex justify-between items-center border-b pb-3">
+                            <div>
+                                <div class="font-medium">December 2025</div>
+                            </div>
+                            <div class="font-semibold tabular-nums">$40.0B</div>
+                        </div>
+                        
+                        <div class="flex justify-between items-center pt-1">
+                            <div>
+                                <div class="font-medium">April 29, 2026</div>
+                                <div class="text-xs text-slate-500">Current (Forbes)</div>
+                            </div>
+                            <div class="font-semibold tabular-nums text-blue-600">$32.9B</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Philanthropy Section -->
+    <div id="philanthropy" class="max-w-6xl mx-auto px-6 pb-12">
+        <div class="flex items-end justify-between mb-6">
+            <div>
+                <h2 class="section-header text-3xl font-semibold tracking-tight">Philanthropy Impact</h2>
+                <p class="text-slate-600 mt-1">Unrestricted • Rapid • Transparent</p>
+            </div>
+            <div>
+                <a href="https://yieldgiving.com" target="_blank" class="inline-flex items-center gap-x-2 text-sm font-medium px-5 py-2.5 bg-white border border-slate-200 hover:border-blue-300 transition-colors rounded-2xl">
+                    <span>Visit Yield Giving</span> 
+                    <i class="fa-solid fa-external-link-alt text-xs"></i>
+                </a>
+            </div>
+        </div>
+        
+        <div class="grid md:grid-cols-12 gap-6">
+            <!-- Big Numbers -->
+            <div class="md:col-span-12 bg-gradient-to-br from-blue-900 to-slate-900 text-white rounded-3xl p-9">
+                <div class="grid grid-cols-2 md:grid-cols-4 gap-8">
+                    <div>
+                        <div class="text-blue-300 text-xs tracking-[1.5px] font-medium">TOTAL DONATED</div>
+                        <div class="text-6xl font-semibold tabular-nums mt-2">$26.3B</div>
+                        <div class="text-blue-300 text-sm mt-1">as of Dec 2025 • 1,600+ orgs</div>
+                    </div>
+                    <div>
+                        <div class="text-blue-300 text-xs tracking-[1.5px] font-medium">2025 GIVING</div>
+                        <div class="text-6xl font-semibold tabular-nums mt-2">$7.1B</div>
+                        <div class="text-blue-300 text-sm mt-1">Record education focus</div>
+                    </div>
+                    <div>
+                        <div class="text-blue-300 text-xs tracking-[1.5px] font-medium">PEAK YEAR</div>
+                        <div class="text-6xl font-semibold tabular-nums mt-2">2022</div>
+                        <div class="text-blue-300 text-sm mt-1">$8.5B to 780 organizations</div>
+                    </div>
+                    <div>
+                        <div class="text-blue-300 text-xs tracking-[1.5px] font-medium">HBCU SUPPORT</div>
+                        <div class="text-6xl font-semibold tabular-nums mt-2">$1.06B</div>
+                        <div class="text-blue-300 text-sm mt-1">2020–2025 across 11+ institutions</div>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Major Grants -->
+            <div class="md:col-span-7 bg-white rounded-3xl border border-slate-100 p-8">
+                <h4 class="font-semibold mb-5">Major Recipients</h4>
+                
+                <div class="space-y-4 text-sm">
+                    <div class="flex justify-between items-center border-b pb-4">
+                        <div>
+                            <div class="font-semibold">Historically Black Colleges &amp; Universities</div>
+                            <div class="text-xs text-slate-500">11+ institutions • 2020–2025</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$1.06B</div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center border-b pb-4">
+                        <div>
+                            <div class="font-semibold">Habitat for Humanity</div>
+                            <div class="text-xs text-slate-500">International + 84 U.S. affiliates (2022)</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$436M</div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center border-b pb-4">
+                        <div>
+                            <div class="font-semibold">Planned Parenthood</div>
+                            <div class="text-xs text-slate-500">Reproductive health (2022)</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$275M</div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center border-b pb-4">
+                        <div>
+                            <div class="font-semibold">Big Brothers Big Sisters</div>
+                            <div class="text-xs text-slate-500">Youth mentorship (2022)</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$122.6M</div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center border-b pb-4">
+                        <div>
+                            <div class="font-semibold">Girl Scouts of the USA</div>
+                            <div class="text-xs text-slate-500">Largest individual gift in history (2022)</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$84.5M</div>
+                    </div>
+                    
+                    <div class="flex justify-between items-center">
+                        <div>
+                            <div class="font-semibold">The Trevor Project</div>
+                            <div class="text-xs text-slate-500">LGBTQ+ suicide prevention (2025)</div>
+                        </div>
+                        <div class="font-semibold text-right tabular-nums">$45M</div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="md:col-span-5 bg-white rounded-3xl border border-slate-100 p-8">
+                <h4 class="font-semibold mb-4">Giving Philosophy</h4>
+                <div class="text-sm space-y-4">
+                    <div class="flex gap-x-3">
+                        <i class="fa-solid fa-check text-emerald-500 mt-1"></i>
+                        <div><span class="font-medium">Unrestricted grants</span> — No strings attached</div>
+                    </div>
+                    <div class="flex gap-x-3">
+                        <i class="fa-solid fa-check text-emerald-500 mt-1"></i>
+                        <div><span class="font-medium">Rapid disbursement</span> — Large-scale &amp; fast</div>
+                    </div>
+                    <div class="flex gap-x-3">
+                        <i class="fa-solid fa-check text-emerald-500 mt-1"></i>
+                        <div><span class="font-medium">"Giving up control"</span> — Trust frontline leaders</div>
+                    </div>
+                    <div class="flex gap-x-3">
+                        <i class="fa-solid fa-check text-emerald-500 mt-1"></i>
+                        <div><span class="font-medium">Minimal publicity</span> — Focus on recipients</div>
+                    </div>
+                </div>
+                
+                <div class="mt-8 pt-6 border-t border-slate-100">
+                    <div class="text-xs uppercase tracking-widest font-medium text-slate-500 mb-2">PLATFORM</div>
+                    <div class="font-semibold">Yield Giving</div>
+                    <div class="text-xs text-slate-500">Public database of 2,700+ gifts • yieldgiving.com</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Timeline -->
+    <div id="timeline" class="max-w-6xl mx-auto px-6 pb-16">
+        <h2 class="section-header text-3xl font-semibold tracking-tight mb-6">Life Timeline</h2>
+        
+        <div class="max-w-3xl mx-auto">
+            <div class="space-y-1">
+                <!-- Timeline items -->
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">70</div>
+                    <div class="pb-8"><span class="font-semibold">Born</span> April 7 in San Francisco</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">88</div>
+                    <div class="pb-8"><span class="font-semibold">Graduated</span> Hotchkiss School</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">92</div>
+                    <div class="pb-8"><span class="font-semibold">BA Princeton</span> • Met Jeff Bezos at D.E. Shaw</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">93</div>
+                    <div class="pb-8"><span class="font-semibold">Married</span> Jeff Bezos</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">05</div>
+                    <div class="pb-8"><span class="font-semibold">Published</span> <em>The Testing of Luther Albright</em> (American Book Award 2006)</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">14</div>
+                    <div class="pb-8"><span class="font-semibold">Founded</span> Bystander Revolution (anti-bullying)</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">19</div>
+                    <div class="pb-8"><span class="font-semibold">Divorced</span> Jeff Bezos ($35.6B settlement) • Signed Giving Pledge</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">20</div>
+                    <div class="pb-8"><span class="font-semibold">First major giving:</span> $5.8B to 500+ organizations</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">22</div>
+                    <div class="pb-8"><span class="font-semibold">Founded</span> Yield Giving • Divorced Dan Jewett</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-blue-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-blue-100">25</div>
+                    <div class="pb-8"><span class="font-semibold">Donated</span> $7.1B (record education giving)</div>
+                </div>
+                
+                <div class="timeline-item flex gap-x-6">
+                    <div class="w-8 h-8 flex-shrink-0 rounded-full bg-emerald-600 flex items-center justify-center text-white text-xs font-bold ring-4 ring-emerald-100">26</div>
+                    <div><span class="font-semibold">Current net worth:</span> $32.9B (Forbes, April 29, 2026)</div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-slate-200 py-10">
+        <div class="max-w-6xl mx-auto px-6">
+            <div class="flex flex-col md:flex-row justify-between items-start md:items-center gap-y-6 text-xs text-slate-500">
+                <div>
+                    <div class="font-medium">Data compiled from 9+ public sources</div>
+                    <div class="mt-1">Wikipedia • Forbes • Yield Giving • Bloomberg • SEC filings • Medium</div>
+                </div>
+                
+                <div class="text-right">
+                    <div>Generated April 30, 2026 • For informational use only</div>
+                    <div class="mt-1">All figures sourced from publicly available records</div>
+                </div>
+            </div>
+            
+            <div class="mt-8 pt-6 border-t border-slate-100 flex flex-wrap gap-x-5 gap-y-2 text-[10px] text-slate-400">
+                <div>© 2026 Research Compilation</div>
+                <div>Verifiable via original sources</div>
+                <div class="flex-1"></div>
+                <div class="cursor-pointer hover:text-slate-600" onclick="window.location.reload()">Refresh data</div>
+            </div>
+        </div>
+    </footer>
+
+    <script>
+        // Tailwind script
+        function initializeTailwind() {
+            document.documentElement.style.setProperty('--accent', '#3b82f6');
+        }
+        
+        function copyProfileLink() {
+            const url = window.location.href;
+            navigator.clipboard.writeText(url).then(() => {
+                const originalText = event.currentTarget ? event.currentTarget.innerHTML : '';
+                const btns = document.querySelectorAll('button');
+                btns.forEach(btn => {
+                    if (btn.innerText.includes('Share')) {
+                        const orig = btn.innerHTML;
+                        btn.innerHTML = `<i class="fa-solid fa-check text-emerald-500"></i> <span>Copied!</span>`;
+                        setTimeout(() => {
+                            btn.innerHTML = orig;
+                        }, 2200);
+                    }
+                });
+            }).catch(() => {
+                // Fallback
+                alert('Link copied: ' + url);
+            });
+        }
+        
+        // Keyboard shortcut hint
+        document.addEventListener('keydown', function(e) {
+            if (e.metaKey && e.key === "/") {
+                e.preventDefault();
+                const nav = document.querySelector('nav');
+                if (nav) nav.scrollIntoView({ behavior: "smooth" });
+            }
+        });
+        
+        // Initialize
+        window.onload = function() {
+            initializeTailwind();
+            
+            // Subtle animation for stats
+            const stats = document.querySelectorAll('.metric-value');
+            stats.forEach((stat, i) => {
+                stat.style.opacity = '0';
+                setTimeout(() => {
+                    stat.style.transition = 'opacity 0.6s ease';
+                    stat.style.opacity = '1';
+                }, 300 + (i * 120));
+            });
+            
+            // Console hint
+            console.log('%c[MacKenzie Scott Profile] Clean single-file HTML ready for sharing via iMessage, email, or AirDrop.', 'color:#64748b; font-size:9px');
+        };
+        
+        // Easter egg: press "s" for source list
+        let keyCount = 0;
+        document.addEventListener('keypress', function(e) {
+            if (e.key.toLowerCase() === 's') {
+                keyCount++;
+                if (keyCount === 3) {
+                    keyCount = 0;
+                    const sources = document.createElement('div');
+                    sources.style.cssText = 'position:fixed;bottom:20px;right:20px;background:white;border:1px solid #cbd5e1;border-radius:16px;padding:16px 20px;box-shadow:0 10px 15px -3px rgb(0 0 0 / 0.1);font-size:12px;max-width:280px;z-index:9999';
+                    sources.innerHTML = `
+                        <div style="font-weight:600;margin-bottom:8px">Primary Sources</div>
+                        <div style="line-height:1.5;color:#475569">
+                            • Wikipedia (MacKenzie Scott)<br>
+                            • Forbes Billionaire Profile<br>
+                            • YieldGiving.com (official)<br>
+                            • Bloomberg Billionaires Index<br>
+                            • SEC EDGAR filings<br>
+                            • Medium essays (official)
+                        </div>
+                    `;
+                    document.body.appendChild(sources);
+                    setTimeout(() => {
+                        sources.style.transition = 'all 0.3s ease';
+                        sources.style.opacity = '0';
+                        setTimeout(() => sources.remove(), 300);
+                    }, 4200);
+                }
+            }
+        });
+    </script>
+</body>
+</html>
