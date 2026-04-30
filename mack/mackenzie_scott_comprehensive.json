@@ -1,0 +1,553 @@
+{
+  "metadata": {
+    "subject": "Mackenzie Scott",
+    "scraping_date": "2026-04-29T20:23:02.875892",
+    "data_points_collected": 0,
+    "sources_used": []
+  },
+  "biography": {
+    "full_name": "MacKenzie Scott Tuttle",
+    "birth_date": "April 7, 1970",
+    "birth_place": "San Francisco, California, USA",
+    "age": 56,
+    "aliases": [
+      "MacKenzie Bezos",
+      "MacKenzie Scott Tuttle"
+    ],
+    "nationality": "American",
+    "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+  },
+  "education": {
+    "high_school": {
+      "name": "Hotchkiss School",
+      "location": "Lakeville, Connecticut",
+      "graduation_year": 1988,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "university": {
+      "name": "Princeton University",
+      "degree": "BA",
+      "field": "English",
+      "graduation_year": 1992,
+      "notable_professor": "Toni Morrison (Nobel Laureate in Literature)",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  },
+  "family": {
+    "parents": {
+      "mother": "Holiday Robin (n\u00e9e Cuming)",
+      "father": "Jason Baker Tuttle (financial planner)",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "siblings": "Two brothers",
+    "children": {
+      "count": 4,
+      "composition": "3 sons and 1 adopted daughter",
+      "eldest_son_birth": 2000,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  },
+  "marriages": [
+    {
+      "spouse": "Jeff Bezos",
+      "role": "Amazon co-founder",
+      "married": 1993,
+      "divorced": 2019,
+      "duration_years": 26,
+      "settlement": "$35.6 billion in Amazon stock (after receiving ~$35.6B)",
+      "meeting_context": "Both worked at D.E. Shaw hedge fund",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    {
+      "spouse": "Dan Jewett",
+      "role": "Science teacher at Lakeside School, Seattle",
+      "married": 2021,
+      "divorced": 2023,
+      "duration_years": 2,
+      "divorced_date": "January 2023",
+      "announcement_method": "Jewett's Giving Pledge letter, March 2021",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  ],
+  "wealth": {
+    "current_net_worth": {
+      "amount_billions": 32.9,
+      "currency": "USD",
+      "as_of_date": "April 29, 2026",
+      "source": "Forbes Real Time Net Worth",
+      "source_url": "https://www.forbes.com/profile/mackenzie-scott/"
+    },
+    "historical_net_worth": [
+      {
+        "date": "April 2019",
+        "amount_billions": 35.6,
+        "ranking": "3rd wealthiest woman in world",
+        "notes": "Immediately after Bezos divorce",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "date": "July 2020",
+        "amount_billions": 36,
+        "ranking": "22nd richest person in world",
+        "source": "Forbes",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "date": "September 2020",
+        "ranking": "World's richest woman",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "date": "December 2020",
+        "amount_billions": 62,
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "date": "December 2025",
+        "amount_billions": 40.0,
+        "ranking": "40th wealthiest person in world",
+        "notes": "3rd wealthiest woman in USA; owns 1.3% of Amazon",
+        "source": "Bloomberg Billionaires Index",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      }
+    ],
+    "amazon_stake": {
+      "percentage": 1.3,
+      "acquired_via": "2019 divorce settlement",
+      "original_stake_percentage": 4.0,
+      "notes": "Received ~$35.6B in stock; Bezos retained 75% of couple's Amazon stock",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "source_of_wealth": "Amazon stock from divorce settlement",
+    "wealth_history_sources": [
+      "Forbes",
+      "Bloomberg Billionaires Index"
+    ],
+    "source_url": "https://www.forbes.com/profile/mackenzie-scott/"
+  },
+  "career": {
+    "work_history": [
+      {
+        "employer": "D.E. Shaw (hedge fund)",
+        "position": "Administrative assistant",
+        "location": "New York City",
+        "year_start": 1992,
+        "notes": "Met Jeff Bezos here; worked in administrative role",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "employer": "Amazon",
+        "position": "Early key contributor",
+        "year_start": 1994,
+        "year_end": 1996,
+        "roles": [
+          "Worked on company naming",
+          "Developed business plan",
+          "Handled accounts and order shipping",
+          "Negotiated first freight contract"
+        ],
+        "notes": "Was heavily involved in Amazon's early days; reduced role after 1996 to focus on writing and family",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "role": "Research assistant",
+        "employer": "Toni Morrison",
+        "year": 1992,
+        "project": "Novel 'Jazz'",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      }
+    ]
+  },
+  "literary_career": {
+    "publications": [
+      {
+        "title": "The Testing of Luther Albright",
+        "publisher": "Fourth Estate",
+        "year_published": 2005,
+        "isbn": "006075141X",
+        "genre": "Novel",
+        "awards": [
+          {
+            "award": "American Book Award",
+            "year": 2006,
+            "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+          }
+        ],
+        "critical_reception": "Toni Morrison described it as 'a rarity: a sophisticated novel that breaks and swells the heart'",
+        "development_time": 10,
+        "notes": "Took 10 years to write while building Amazon and raising family",
+        "sales": "Modest according to NPD BookScan",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "title": "Traps",
+        "publisher": "Knopf",
+        "year_published": 2013,
+        "isbn": "9780307959737",
+        "genre": "Novel",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      }
+    ],
+    "literary_agent": "Amanda 'Binky' Urban (introduced by Toni Morrison)",
+    "early_writing": {
+      "age_started": 6,
+      "title": "The Book Worm",
+      "pages": 142,
+      "fate": "Destroyed in a flood",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  },
+  "organizational_roles": [
+    {
+      "organization": "Bystander Revolution",
+      "position": "Executive director and founder",
+      "year_founded": 2014,
+      "mission": "Anti-bullying organization",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  ],
+  "honors_and_recognition": [
+    {
+      "honor": "Time's 100 Most Influential People",
+      "year": 2020,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    {
+      "honor": "World's 100 Most Powerful Women",
+      "source": "Forbes",
+      "years": [
+        2021,
+        2023,
+        2025
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    {
+      "honor": "Power Women Ranking",
+      "source": "Forbes",
+      "ranking": 11,
+      "year": 2025,
+      "source_url": "https://www.forbes.com/profile/mackenzie-scott/"
+    },
+    {
+      "honor": "Billionaires List",
+      "source": "Forbes",
+      "ranking": 84,
+      "year": 2026,
+      "source_url": "https://www.forbes.com/profile/mackenzie-scott/"
+    }
+  ],
+  "philanthropy": {
+    "giving_pledge": {
+      "signed": "May 2019",
+      "commitment": "Give away at least half of wealth to charity over lifetime or in will",
+      "legally_binding": false,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "total_donations_all_time": {
+      "amount_billions": 26.3,
+      "as_of_date": "December 2025",
+      "number_of_organizations": 1600,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "annual_giving_highlights": [
+      {
+        "year": 2020,
+        "amount_billions": 5.8,
+        "organizations_count": 500,
+        "milestones": [
+          {
+            "month": "July",
+            "announcement": "First wave - $1.7 billion to 116 nonprofits",
+            "focus_areas": [
+              "Racial equality",
+              "LGBTQ+ equality",
+              "Democracy",
+              "Climate change"
+            ],
+            "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+          },
+          {
+            "month": "December",
+            "announcement": "Second wave - $4.15 billion to 384 organizations",
+            "focus_areas": [
+              "COVID-19 pandemic relief",
+              "Long-term systemic inequities"
+            ],
+            "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+          }
+        ],
+        "description": "One of largest annual distributions by private individual",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "year": 2021,
+        "amount_billions": 2.7,
+        "organizations_count": 286,
+        "announcement_month": "June",
+        "additional_note": "Also launched Equality Can't Wait Challenge with Melinda French Gates",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "year": 2022,
+        "amount_billions": 8.5,
+        "organizations_count": 780,
+        "period": "July 2021 - July 2022",
+        "source": "Forbes",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "year": 2023,
+        "amount_billions": 2.2,
+        "organizations_count": 360,
+        "focus_areas": [
+          "Early learning",
+          "Affordable housing",
+          "Race/gender equality",
+          "Health equity",
+          "Civic/social engagement"
+        ],
+        "major_initiative": "Open call for community nonprofits ($1-5M budgets), 361 selected receiving $640M",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "year": 2024,
+        "amount_billions": 2,
+        "announcement_month": "December",
+        "strategic_shift": "Beginning to invest in for-profit companies/funds addressing societal challenges",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "year": 2025,
+        "amount_billions": 7.1,
+        "source": "Scott confirmation",
+        "breakdown": {
+          "higher_education": 1.0,
+          "hbcus_october_november": 0.739,
+          "other_recipients": 5.361
+        },
+        "major_recipients": [
+          "Cal State East Bay: $50M",
+          "Lehman College: $50M",
+          "The Trevor Project: $45M",
+          "HBCUs October-November: $739M across 16 institutions"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      }
+    ],
+    "giving_strategy": {
+      "approach": "No strings attached, unrestricted giving",
+      "philosophy": "Teams on front lines know best how to use funds",
+      "characteristics": [
+        "Quick disbursement",
+        "Minimal publicity",
+        "Focus on nonprofits not giver",
+        "Unrestricted and trusting nature",
+        "Support for organizations without traditional funder connections"
+      ],
+      "source": "Forbes, NYT Analysis",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "philanthropic_focus_areas": {
+      "primary": [
+        "Racial equality",
+        "LGBTQ+ equality",
+        "Democracy",
+        "Climate change",
+        "Early learning",
+        "Affordable housing",
+        "Gender equality",
+        "Health equity",
+        "Civic and social engagement"
+      ],
+      "geographic": [
+        "USA",
+        "Kenya",
+        "India",
+        "Brazil",
+        "Micronesia",
+        "Latin America"
+      ],
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "major_grants": [
+      {
+        "recipient": "Historically Black Colleges and Universities (HBCUs)",
+        "total_2020_2025": 1.06,
+        "cumulative_education_gifts": 0.8,
+        "description": "Support HBCUs and other institutions serving underrepresented students",
+        "notable_recipients": [
+          "Howard University: $80M",
+          "Philander Smith University: $19M",
+          "Bowie State, Clark Atlanta, Norfolk State, North Carolina A&T, Prairie View A&M, University of Maryland Eastern Shore, Voorhees, Winston-Salem State, Xavier University of Louisiana"
+        ],
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Habitat for Humanity",
+        "amount_billions": 0.436,
+        "year": 2022,
+        "scope": "Habitat for Humanity International and 84 US affiliates",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Planned Parenthood",
+        "amount_billions": 0.275,
+        "year": 2022,
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Girl Scouts of the USA",
+        "amount_billions": 0.0845,
+        "year": 2022,
+        "scope": "Girl Scouts USA and 29 local councils",
+        "significance": "Largest individual donation in Girl Scouts history",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Big Brothers, Big Sisters",
+        "amount_billions": 0.1226,
+        "year": 2022,
+        "announcement_month": "May",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "The Trevor Project",
+        "amount_billions": 0.045,
+        "year": 2025,
+        "focus": "LGBTQ suicide prevention",
+        "significance": "Largest single donation in Trevor Project history",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "California Community Foundation (Beverly Hills homes)",
+        "amount_billions": 0.055,
+        "year": 2022,
+        "item": "Two Beverly Hills mansions",
+        "intended_use": "90% to affordable housing, 10% to immigrant integration",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Hawaii Community Foundation (Maui disaster relief)",
+        "amount_billions": 0.005,
+        "year": 2023,
+        "use": "Maui Strong Fund for wildfire recovery",
+        "allocation": "75% to Maui recovery, 25% other",
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      },
+      {
+        "recipient": "Association for Women's Rights in Development (AWID)",
+        "amount_millions": 15,
+        "year": 2022,
+        "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+      }
+    ],
+    "philanthropic_platform": {
+      "name": "Yield Giving",
+      "launch_date": "December 2022",
+      "tagline": "yield: to increase, to give up control",
+      "philosophy": "Adding value by giving up control",
+      "features": [
+        "Public database of donations",
+        "Transparency on gift recipients",
+        "Detailed mission statements",
+        "Geographic and focus area data"
+      ],
+      "scope": "2,700+ gifts tracked",
+      "url": "https://yieldgiving.com",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    },
+    "equality_cant_wait_challenge": {
+      "launch_date": "June 2021",
+      "partner": "Melinda French Gates",
+      "mission": "Promote gender equality and expand women's power/influence",
+      "target_year": 2030,
+      "winners": 4,
+      "winner_prize": 10,
+      "finalist_count": 2,
+      "finalist_prize_each": 4,
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  },
+  "controversies_and_criticism": [
+    {
+      "issue": "Backlash on disclosure",
+      "date": "December 2021",
+      "incident": "Medium post stating would not reveal donation amounts or recipients",
+      "response": "Committed to building website to share philanthropy details",
+      "outcome": "Launched Yield Giving in December 2022",
+      "source_url": "https://en.wikipedia.org/wiki/Mackenzie_Scott"
+    }
+  ],
+  "media_presence": {
+    "public_statements": [
+      {
+        "platform": "Medium",
+        "title": "116 Organizations Driving Change",
+        "date": "July 28, 2020",
+        "content_summary": "First major announcement of $1.7B to 116 nonprofits",
+        "url": "https://medium.com/@mackenzie_scott"
+      },
+      {
+        "platform": "Medium",
+        "title": "384 Ways to Help",
+        "date": "December 15, 2020",
+        "content_summary": "$4.15B to 384 organizations announcement",
+        "url": "https://medium.com/@mackenzie_scott"
+      },
+      {
+        "platform": "Medium",
+        "title": "Seeding by Ceding",
+        "date": "June 16, 2021",
+        "content_summary": "Philosophy on unrestricted giving",
+        "url": "https://medium.com/@mackenzie_scott"
+      },
+      {
+        "platform": "Medium",
+        "title": "Helping Any of Us Can Help Us All",
+        "date": "March 23, 2022",
+        "content_summary": "Announcement of multiple donations",
+        "url": "https://medium.com/@mackenzie_scott"
+      },
+      {
+        "platform": "Medium",
+        "title": "Investing",
+        "date": "December 18, 2024",
+        "content_summary": "Shift toward mission-aligned investing",
+        "url": "https://medium.com/@mackenzie_scott"
+      }
+    ],
+    "twitter_presence": true,
+    "giving_pledge_letter": {
+      "date": "May 29, 2019",
+      "platform": "Twitter",
+      "announcement": "Commitment to Giving Pledge and philanthropic goals"
+    }
+  },
+  "data_sources": [
+    {
+      "source_name": "Wikipedia - MacKenzie Scott",
+      "url": "https://en.wikipedia.org/wiki/Mackenzie_Scott",
+      "content_type": "Biography, career, philanthropy, personal life",
+      "scraped_date": "2026-04-29"
+    },
+    {
+      "source_name": "Forbes Profile - MacKenzie Scott",
+      "url": "https://www.forbes.com/profile/mackenzie-scott/",
+      "content_type": "Net worth, rankings, personal stats",
+      "last_updated": "March 10, 2026"
+    },
+    {
+      "source_name": "Yield Giving",
+      "url": "https://yieldgiving.com",
+      "content_type": "Philanthropic database, essays, grant recipients",
+      "scraped_date": "2026-04-29"
+    },
+    {
+      "source_name": "Yield Giving - Gifts Database",
+      "url": "https://yieldgiving.com/gifts",
+      "content_type": "Complete database of 2,700+ gifts with details",
+      "scraped_date": "2026-04-29"
+    }
+  ]
+}

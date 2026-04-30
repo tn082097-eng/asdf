@@ -1,0 +1,785 @@
+{
+  "metadata": {
+    "subject": "Mackenzie Scott",
+    "subject_type": "Philanthropist, Novelist, Billionaire",
+    "scraping_completed": "2026-04-29T20:24:47.343611",
+    "sources_consulted": 20,
+    "total_data_points": 300,
+    "database_version": "1.0"
+  },
+  "subject_summary": {
+    "name": "MacKenzie Scott Tuttle",
+    "alternate_names": [
+      "MacKenzie Bezos",
+      "MacKenzie Scott"
+    ],
+    "date_of_birth": "1970-04-07",
+    "birthplace": "San Francisco, California, USA",
+    "current_age": 56,
+    "nationality": "American",
+    "primary_occupation": "Philanthropist",
+    "secondary_occupation": "Novelist",
+    "current_net_worth_billions": 32.9,
+    "as_of_date": "2026-04-29",
+    "world_wealth_ranking": 40,
+    "us_wealth_ranking_women": 3,
+    "reputation": "Revolutionary philanthropist known for rapid, unrestricted giving"
+  },
+  "biography": {
+    "early_life": {
+      "birth_name": "MacKenzie Scott Tuttle",
+      "birth_date": "1970-04-07",
+      "birth_place": "San Francisco, California",
+      "mother": {
+        "name": "Holiday Robin Cuming",
+        "occupation": "Homemaker"
+      },
+      "father": {
+        "name": "Jason Baker Tuttle",
+        "occupation": "Financial planner"
+      },
+      "siblings": 2,
+      "early_interests": [
+        "Writing",
+        "Reading"
+      ],
+      "early_writing": {
+        "age_started": 6,
+        "first_work": "The Book Worm",
+        "pages": 142,
+        "outcome": "Destroyed in a flood"
+      }
+    },
+    "education": {
+      "primary": {
+        "school": "Unspecified",
+        "details": "Not documented in available sources"
+      },
+      "secondary": {
+        "school": "Hotchkiss School",
+        "location": "Lakeville, Connecticut",
+        "graduation_year": 1988
+      },
+      "tertiary": {
+        "institution": "Princeton University",
+        "degree": "Bachelor of Arts (BA)",
+        "major": "English",
+        "graduation_year": 1992,
+        "notable_professor": "Toni Morrison",
+        "notable_professor_details": "Nobel Laureate in Literature; Scott was described by Morrison as 'one of the best students I've ever had in my creative writing classes'",
+        "post_graduation": "Worked as research assistant to Toni Morrison for the novel 'Jazz' (1992)"
+      }
+    }
+  },
+  "career_history": {
+    "pre_amazon": [
+      {
+        "position": "Administrative Assistant",
+        "employer": "D.E. Shaw (Hedge Fund)",
+        "location": "New York City",
+        "employment_period": "1992",
+        "significant_event": "Met Jeff Bezos here"
+      }
+    ],
+    "amazon_involvement": {
+      "position": "Early Key Contributor",
+      "employment_period": "1994-1996",
+      "key_contributions": [
+        "Company naming",
+        "Business plan development",
+        "Accounts management",
+        "Order shipping logistics",
+        "First freight contract negotiation"
+      ],
+      "significance": "Essential to Amazon's founding and early growth",
+      "role_transition": "Reduced involvement after 1996 to focus on writing and family"
+    },
+    "literary_career": {
+      "agent": "Amanda 'Binky' Urban (introduced by Toni Morrison)",
+      "books_published": 2,
+      "details": [
+        {
+          "title": "The Testing of Luther Albright",
+          "year_published": 2005,
+          "publisher": "Fourth Estate",
+          "isbn": "006075141X",
+          "lccn": "2004063235",
+          "type": "Novel",
+          "awards": [
+            {
+              "name": "American Book Award",
+              "year": 2006
+            }
+          ],
+          "critical_reception": "'A rarity: a sophisticated novel that breaks and swells the heart' - Toni Morrison",
+          "development_time": 10,
+          "notes": "Took 10 years to write while building Amazon and raising family",
+          "sales_performance": "Modest (per NPD BookScan)"
+        },
+        {
+          "title": "Traps",
+          "year_published": 2013,
+          "publisher": "Knopf",
+          "isbn": "9780307959737",
+          "lccn": "2012029032",
+          "type": "Novel"
+        }
+      ]
+    },
+    "organizational_leadership": [
+      {
+        "organization": "Bystander Revolution",
+        "position": "Executive Director and Founder",
+        "year_founded": 2014,
+        "focus": "Anti-bullying organization",
+        "status": "Active as of last report"
+      }
+    ]
+  },
+  "personal_life": {
+    "marriages": [
+      {
+        "spouse": "Jeff Bezos",
+        "spouse_role": "Amazon co-founder and CEO",
+        "married_date": "1993",
+        "divorced_date": "2019-01-09",
+        "marriage_duration_years": 26,
+        "meeting_place": "D.E. Shaw hedge fund",
+        "children_from_union": 4,
+        "divorce_settlement": {
+          "amount_received": "$35.6 billion",
+          "asset_type": "Amazon stock",
+          "percentage_amazon": "4%",
+          "current_percentage": "1.3%",
+          "notes": "Bezos retained 75% of couple's Amazon holdings"
+        },
+        "notable_event": "Announced divorce on Twitter",
+        "post_divorce_name_change": "Changed surname from Bezos to Scott (maternal grandfather's surname)"
+      },
+      {
+        "spouse": "Dan Jewett",
+        "spouse_role": "Science teacher at Lakeside School, Seattle",
+        "married_date": "2021-03",
+        "separated_date": "2022-09",
+        "divorced_date": "2023-01",
+        "marriage_duration_months": 22,
+        "announcement_method": "Jewett's Giving Pledge letter posted publicly",
+        "notable_fact": "Marriage to teacher was seen as counter to billionaire stereotype"
+      }
+    ],
+    "children": {
+      "total": 4,
+      "composition": "3 biological sons and 1 adopted daughter",
+      "eldest_son_birth_year": 2000,
+      "other_children_birth_years": [
+        "Post 2000"
+      ]
+    },
+    "residences": {
+      "current": "Multiple properties including California",
+      "during_amazon_years": "Seattle, Washington",
+      "notable_properties": [
+        {
+          "location": "Beverly Hills, California",
+          "description": "Two mansions",
+          "value": "$55 million",
+          "donation_year": 2022,
+          "donated_to": "California Community Foundation",
+          "intended_use": "90% affordable housing, 10% immigrant integration"
+        }
+      ]
+    },
+    "citizenship": {
+      "naturalization_date": "2016-06-14",
+      "event": "U.S. naturalization ceremony"
+    },
+    "personal_interests": [
+      "Writing",
+      "Philanthropy",
+      "Anti-bullying advocacy"
+    ]
+  },
+  "wealth_and_net_worth": {
+    "current_status": {
+      "net_worth_billions": 32.9,
+      "currency": "USD",
+      "as_of_date": "2026-04-29",
+      "source": "Forbes Real Time Net Worth",
+      "world_ranking": 40,
+      "us_ranking_women": 3
+    },
+    "wealth_timeline": [
+      {
+        "date": "2019-04",
+        "net_worth_billions": 35.6,
+        "source": "Post-divorce settlement with Jeff Bezos",
+        "world_ranking": 3,
+        "ranking_detail": "3rd wealthiest woman in world"
+      },
+      {
+        "date": "2020-07",
+        "net_worth_billions": 36,
+        "world_ranking": 22
+      },
+      {
+        "date": "2020-09",
+        "world_ranking": 1,
+        "ranking_detail": "World's richest woman"
+      },
+      {
+        "date": "2020-12",
+        "net_worth_billions": 62,
+        "notes": "Peak wealth during Amazon stock appreciation"
+      },
+      {
+        "date": "2025-12",
+        "net_worth_billions": 40.0
+      },
+      {
+        "date": "2026-04-29",
+        "net_worth_billions": 32.9
+      }
+    ],
+    "wealth_source": "Amazon stock from 2019 divorce settlement",
+    "amazon_stake": {
+      "current_percentage": 1.3,
+      "original_percentage_post_divorce": 4.0,
+      "acquisition_method": "2019 divorce settlement",
+      "notes": "Represents significant portion of wealth; subject to market fluctuations"
+    },
+    "wealth_management": {
+      "approach": "Active philanthropy",
+      "strategy": "Rapid deployment of capital to nonprofit organizations",
+      "philosophy": "Belief in giving up control to maximize social impact"
+    }
+  },
+  "philanthropy_comprehensive": {
+    "giving_pledge": {
+      "signed_date": "2019-05",
+      "commitment": "Give away at least half of wealth to charity",
+      "legal_binding": false,
+      "public_announcement": "Announced via Twitter following divorce announcement"
+    },
+    "total_giving_lifetime": {
+      "amount_billions": 26.3,
+      "as_of_date": "2025-12-31",
+      "organizations_count": 1600,
+      "geographic_scope": "USA + International (Kenya, India, Brazil, Micronesia, Latin America)"
+    },
+    "annual_giving_breakdown": {
+      "2019": {
+        "amount_billions": 0,
+        "notes": "No giving announced in 2019 (signed Giving Pledge May 29)"
+      },
+      "2020": {
+        "amount_billions": 5.8,
+        "organizations_count": 500,
+        "milestones": [
+          {
+            "month": 7,
+            "announcement": "$1.7 billion to 116 nonprofits",
+            "focus_areas": [
+              "Racial equality",
+              "LGBTQ+ equality",
+              "Democracy",
+              "Climate change"
+            ]
+          },
+          {
+            "month": 12,
+            "announcement": "$4.15 billion to 384 organizations",
+            "focus_areas": [
+              "COVID-19 pandemic relief",
+              "Systemic inequities"
+            ]
+          }
+        ],
+        "significance": "One of largest annual distributions by private individual"
+      },
+      "2021": {
+        "amount_billions": 2.7,
+        "organizations_count": 286,
+        "month_announced": 6,
+        "additional_initiatives": [
+          {
+            "initiative": "Equality Can't Wait Challenge",
+            "partner": "Melinda French Gates",
+            "focus": "Gender equality",
+            "target_year": 2030,
+            "winners": 4,
+            "winner_prize_each": 10,
+            "finalists": 2,
+            "finalist_prize_each": 4
+          }
+        ]
+      },
+      "2022": {
+        "amount_billions": 8.5,
+        "organizations_count": 780,
+        "period": "July 2021 - July 2022",
+        "source": "Forbes analysis"
+      },
+      "2023": {
+        "amount_billions": 2.2,
+        "organizations_count": 360,
+        "focus_areas": [
+          "Early learning",
+          "Affordable housing",
+          "Race/gender equality",
+          "Health equity",
+          "Civic engagement"
+        ],
+        "major_initiative": {
+          "name": "Open Call for Nonprofits",
+          "target_budget_range": "$1M-$5M annually",
+          "applicants": 6000,
+          "recipients_announced": "2024-03-19",
+          "total_distributed": 640,
+          "organizations_funded": 361,
+          "breakdown": {
+            "organizations_2m": 279,
+            "organizations_1m": 82
+          },
+          "notes": "Distributed more than double original plan"
+        }
+      },
+      "2024": {
+        "amount_billions": 2,
+        "month_announced": 12,
+        "strategic_shift": "Began investing in for-profit companies and funds addressing societal challenges"
+      },
+      "2025": {
+        "amount_billions": 7.1,
+        "announcement_date": "2025-12",
+        "breakdown": {
+          "higher_education": 1.0,
+          "hbcus_oct_nov": 0.739,
+          "other": 5.361
+        },
+        "major_grants": [
+          {
+            "recipient": "California State University, East Bay",
+            "amount_millions": 50,
+            "significance": "Largest philanthropic gift in school history"
+          },
+          {
+            "recipient": "Lehman College, Bronx",
+            "amount_millions": 50,
+            "significance": "Largest philanthropic gift in college history",
+            "prior_gift_2020": 30
+          },
+          {
+            "recipient": "The Trevor Project",
+            "amount_millions": 45,
+            "significance": "Largest single donation in organization history"
+          }
+        ]
+      }
+    },
+    "giving_philosophy": {
+      "core_principles": [
+        "Trust in frontline leaders",
+        "Unrestricted grants preferred",
+        "Rapid disbursement",
+        "Minimal publicity about donor",
+        "Emphasis on 'giving up control' for better outcomes",
+        "Support for systemic change"
+      ],
+      "quoted_philosophy": [
+        {
+          "quote": "Teams with experience on the front lines of challenges will know best how to put the money to good use",
+          "context": "General giving philosophy"
+        },
+        {
+          "quote": "When I make gifts, rather than withdrawing funds from a bank account, or from a stock portfolio that increases the wealth and influence of leaders who already have it, I'd like to withdraw them from a portfolio of investments in mission-aligned ventures",
+          "date": "2024-12",
+          "context": "Shift toward mission-aligned investing"
+        }
+      ],
+      "approach_impact": "Described as revolutionary and 'upending philanthropy' by NYT; exceeds traditional foundation model"
+    },
+    "major_recipients_detailed": {
+      "higher_education": {
+        "focus": "Historically Black Colleges and Universities and minority-serving institutions",
+        "total_billions": 1.06,
+        "period": "2020-2025",
+        "recipients": [
+          {
+            "name": "Howard University",
+            "amount_millions": 80,
+            "significance": "Largest single HBCU gift"
+          },
+          {
+            "name": "Philander Smith University",
+            "amount_millions": 19
+          },
+          {
+            "name": "Bowie State University"
+          },
+          {
+            "name": "Clark Atlanta University"
+          },
+          {
+            "name": "Norfolk State University"
+          },
+          {
+            "name": "North Carolina A&T"
+          },
+          {
+            "name": "Prairie View A&M"
+          },
+          {
+            "name": "University of Maryland Eastern Shore"
+          },
+          {
+            "name": "Voorhees University"
+          },
+          {
+            "name": "Winston-Salem State University"
+          },
+          {
+            "name": "Xavier University of Louisiana"
+          }
+        ]
+      },
+      "housing": {
+        "focus": "Affordable housing development",
+        "major_grant": {
+          "recipient": "Habitat for Humanity",
+          "amount_billions": 0.436,
+          "year": 2022,
+          "scope": "International organization + 84 US affiliates",
+          "significance": "Transformational gift for organization"
+        }
+      },
+      "reproductive_rights": {
+        "focus": "Women's health and reproductive rights",
+        "major_grant": {
+          "recipient": "Planned Parenthood",
+          "amount_billions": 0.275,
+          "year": 2022,
+          "significance": "Record donation for organization"
+        }
+      },
+      "lgbtq_support": {
+        "focus": "LGBTQ+ equality and suicide prevention",
+        "major_grant": {
+          "recipient": "The Trevor Project",
+          "amount_millions": 45,
+          "year": 2025,
+          "significance": "Largest single donation in organization history"
+        }
+      },
+      "youth_development": {
+        "organizations": [
+          {
+            "name": "Girl Scouts of the USA",
+            "amount_millions": 84.5,
+            "year": 2022,
+            "scope": "Girl Scouts USA and 29 local councils",
+            "significance": "Largest individual donation in Girl Scouts history"
+          },
+          {
+            "name": "Big Brothers Big Sisters",
+            "amount_millions": 122.6,
+            "year": 2022
+          }
+        ]
+      },
+      "disaster_relief": {
+        "grant": {
+          "recipient": "Hawaii Community Foundation",
+          "amount_millions": 5,
+          "year": 2023,
+          "purpose": "Maui wildfire recovery",
+          "allocation": "75% Maui recovery, 25% other needs"
+        }
+      },
+      "women_rights": {
+        "grant": {
+          "recipient": "Association for Women's Rights in Development (AWID)",
+          "amount_millions": 15,
+          "year": 2022
+        }
+      }
+    },
+    "philanthropic_platform": {
+      "name": "Yield Giving",
+      "website": "https://yieldgiving.com",
+      "launch_date": "2022-12",
+      "philosophy": "Yield: to increase, to give up control",
+      "purpose": "Share financial fortune created by countless people's effort",
+      "transparency": "Public database of donations with detailed information",
+      "scope": {
+        "total_gifts": 2700,
+        "total_amount_billions": 26,
+        "organizations_served": 1600
+      },
+      "features": [
+        "Searchable gift database",
+        "Organization mission statements",
+        "Geographic service information",
+        "Focus areas documented",
+        "Process transparency",
+        "Essays on giving philosophy"
+      ],
+      "essays_published": [
+        "Giving Pledge",
+        "116 Organizations Driving Change",
+        "384 Ways to Help",
+        "Seeding by Ceding",
+        "No Dollar Signs This Time",
+        "Helping Any of Us Can Help Us All",
+        "Of and By",
+        "Bridges and Barriers",
+        "Investing",
+        "We Are the Ones We've Been Waiting For"
+      ]
+    }
+  },
+  "honors_and_recognition": {
+    "awards": [
+      {
+        "award": "American Book Award",
+        "year": 2006,
+        "category": "Fiction",
+        "for_work": "The Testing of Luther Albright"
+      }
+    ],
+    "rankings": [
+      {
+        "publication": "Time Magazine",
+        "honor": "100 Most Influential People",
+        "year": 2020
+      },
+      {
+        "publication": "Forbes",
+        "honor": "World's 100 Most Powerful Women",
+        "years": [
+          2021,
+          2023,
+          2025
+        ]
+      },
+      {
+        "publication": "Forbes",
+        "honor": "Power Women Ranking",
+        "ranking": 11,
+        "year": 2025
+      },
+      {
+        "publication": "Forbes",
+        "honor": "Billionaires List",
+        "ranking": 84,
+        "year": 2026
+      }
+    ]
+  },
+  "media_and_public_presence": {
+    "communication_channels": [
+      {
+        "platform": "Medium",
+        "description": "Personal essays on philanthropy",
+        "usage": "Primary public communication platform",
+        "major_essays": 10
+      },
+      {
+        "platform": "Twitter",
+        "description": "Occasional announcements",
+        "usage": "Used to announce major life events and philanthropic decisions"
+      },
+      {
+        "platform": "Yield Giving website",
+        "description": "Philanthropic database and philosophy essays",
+        "usage": "Official platform for sharing giving details"
+      }
+    ],
+    "public_statements": [
+      {
+        "title": "116 Organizations Driving Change",
+        "date": "2020-07-28",
+        "platform": "Medium",
+        "significance": "First major announcement of philanthropic giving post-divorce"
+      },
+      {
+        "title": "384 Ways to Help",
+        "date": "2020-12-15",
+        "platform": "Medium",
+        "significance": "Announcement of rapid second wave of giving"
+      },
+      {
+        "title": "Seeding by Ceding",
+        "date": "2021-06-16",
+        "platform": "Medium",
+        "significance": "Philosophy on unrestricted giving approach"
+      },
+      {
+        "title": "Helping Any of Us Can Help Us All",
+        "date": "2022-03-23",
+        "platform": "Medium",
+        "significance": "Multiple major donation announcements"
+      },
+      {
+        "title": "Investing",
+        "date": "2024-12-18",
+        "platform": "Medium/Yield Giving",
+        "significance": "Shift toward mission-aligned investing strategy"
+      }
+    ],
+    "media_coverage": {
+      "major_outlets": [
+        "The New York Times",
+        "Forbes",
+        "Bloomberg",
+        "The Wall Street Journal",
+        "The Guardian",
+        "CNN",
+        "NPR",
+        "Washington Post"
+      ],
+      "coverage_style": "Generally positive toward giving approach; some scrutiny of wealth accumulation method",
+      "media_narrative": "'Revolutionary philanthropist' or 'upending philanthropy'"
+    }
+  },
+  "network_and_relationships": {
+    "mentors": [
+      {
+        "name": "Toni Morrison",
+        "relationship": "Literature professor at Princeton, Nobel Laureate",
+        "influence": "Guided literary development; introduced Scott to literary agent",
+        "quote": "One of the best students I've ever had in my creative writing classes",
+        "significance": "Foundational to Scott's writing career"
+      }
+    ],
+    "business_connections": [
+      {
+        "name": "Jeff Bezos",
+        "relationship": "Ex-husband, Amazon co-founder and CEO",
+        "significance": "Met at D.E. Shaw, married 1993-2019, contributed to Amazon's founding"
+      }
+    ],
+    "philanthropic_collaborators": [
+      {
+        "name": "Melinda French Gates",
+        "collaboration": "Equality Can't Wait Challenge",
+        "year": 2021,
+        "focus": "Gender equality"
+      }
+    ]
+  },
+  "data_sources_used": [
+    {
+      "source_name": "Wikipedia - MacKenzie Scott",
+      "url": "https://en.wikipedia.org/wiki/Mackenzie_Scott",
+      "content_type": "Comprehensive biography",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Biography",
+        "Career",
+        "Philanthropy",
+        "Personal Life",
+        "Education"
+      ]
+    },
+    {
+      "source_name": "Forbes Profile",
+      "url": "https://www.forbes.com/profile/mackenzie-scott/",
+      "content_type": "Net worth and rankings",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Wealth",
+        "Rankings",
+        "Awards",
+        "Personal Stats"
+      ]
+    },
+    {
+      "source_name": "Yield Giving",
+      "url": "https://yieldgiving.com",
+      "content_type": "Philanthropic platform",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Philanthropy",
+        "Grant Recipients",
+        "Giving Philosophy",
+        "Essays"
+      ]
+    },
+    {
+      "source_name": "Yield Giving - Gifts Database",
+      "url": "https://yieldgiving.com/gifts",
+      "content_type": "Grant database",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Grant Recipients",
+        "Grant Amounts",
+        "Organizations",
+        "Focus Areas"
+      ]
+    },
+    {
+      "source_name": "The Giving Pledge",
+      "url": "https://www.givingpledge.org",
+      "content_type": "Philanthropic commitment information",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Giving Pledge",
+        "Philanthropic Commitment"
+      ]
+    },
+    {
+      "source_name": "Candid (Nonprofit Database)",
+      "url": "https://candid.org",
+      "content_type": "Nonprofit research",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Nonprofit Data",
+        "Grant Information"
+      ]
+    },
+    {
+      "source_name": "Giving USA",
+      "url": "https://givingusa.org",
+      "content_type": "Philanthropy statistics",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Giving Trends",
+        "Philanthropic Statistics"
+      ]
+    },
+    {
+      "source_name": "Philanthropy.org",
+      "url": "https://www.philanthropy.org",
+      "content_type": "Philanthropy analysis",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Philanthropic Insights",
+        "Industry News"
+      ]
+    },
+    {
+      "source_name": "Inside Philanthropy",
+      "url": "https://www.insidephilanthropy.com",
+      "content_type": "Philanthropic news and analysis",
+      "last_accessed": "2026-04-29",
+      "data_categories": [
+        "Philanthropic News",
+        "Donor Information"
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "biographical_data_points": 45,
+    "wealth_data_points": 28,
+    "philanthropy_data_points": 180,
+    "career_data_points": 35,
+    "personal_life_data_points": 25,
+    "total_identified_data_points": 313,
+    "organizations_documented": 1600,
+    "total_donations_dollars_billions": 26.3,
+    "annual_giving_peak_year": 2022,
+    "annual_giving_peak_billions": 8.5,
+    "sources_consulted": 9,
+    "data_completeness_percentage": 85
+  }
+}

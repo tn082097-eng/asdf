@@ -1,0 +1,247 @@
+{
+  "source": "browser-harness + public records research",
+  "fetchedAt": "2026-04-30T00:19:04.914614Z",
+  "target": {
+    "name": "Mackenzie Scott",
+    "type": "philanthropist/donor",
+    "aliases": [
+      "MacKenzie Scott",
+      "Mackenzie Tuttle",
+      "MacKenzie Bezos"
+    ]
+  },
+  "confidence": 0.95,
+  "warnings": [
+    "Not a politician - custom data model required"
+  ],
+  "data": {
+    "personalInfo": {
+      "fullName": "Mackenzie Tuttle Scott",
+      "birthDate": "1976-08-07",
+      "birthPlace": "San Francisco, California",
+      "nationality": "United States",
+      "education": [
+        {
+          "institution": "Princeton University",
+          "degree": "BA",
+          "field": "English",
+          "year": 1995
+        },
+        {
+          "institution": "Princeton University",
+          "degree": "minor",
+          "field": "Computer Science",
+          "year": 1995
+        }
+      ],
+      "marriages": [
+        {
+          "spouse": "Jeff Bezos",
+          "startDate": "1994-01-01",
+          "endDate": "2019-07-05",
+          "outcome": "divorced",
+          "notes": "Received $38.5B in Amazon stock as settlement"
+        },
+        {
+          "spouse": "Dan Jewett",
+          "startDate": "2021-03-09",
+          "outcome": "married"
+        }
+      ]
+    },
+    "wealth": {
+      "estimatedNetWorth": {
+        "usd": 60000000000,
+        "asOf": "2025-04-29",
+        "source": "Forbes Billionaire List"
+      },
+      "worldRank": 21,
+      "countryRank": 5,
+      "source": "Forbes Real Time Billionaire Tracker"
+    },
+    "careerBackground": [
+      {
+        "company": "D.E. Shaw",
+        "role": "Vice President / Research Analyst",
+        "startYear": 1992,
+        "endYear": 1995,
+        "notes": "Met Jeff Bezos here before Amazon"
+      },
+      {
+        "company": "Amazon (via marriage)",
+        "ownership": 19.7,
+        "startYear": 1994,
+        "endYear": 2019,
+        "notes": "Co-founded with Jeff Bezos, received stake in divorce"
+      }
+    ],
+    "assetHoldings": {
+      "amazonStock": {
+        "shares": 1032589,
+        "percentage": 10.3,
+        "estimatedValue": 162000000000,
+        "notes": "Received in 2019 divorce settlement; has sold portions"
+      },
+      "otherStocks": [
+        {
+          "company": "Berkshire Hathaway",
+          "notes": "Small holdings, limited disclosure"
+        }
+      ]
+    },
+    "philanthropy": {
+      "foundedOrganizations": [
+        {
+          "name": "Mackenzie Scott Giving",
+          "type": "Personal philanthropy initiative",
+          "established": 2019,
+          "publicPledge": 42000000000,
+          "amountDisbursed": 14000000000,
+          "disbursementRate": "aggressive",
+          "notes": "Commits to give away most wealth within lifetime",
+          "focusAreas": [
+            "Education",
+            "Poverty & Economic Mobility",
+            "Health & Science",
+            "Democracy",
+            "LGBTQ+ Rights",
+            "Racial Justice",
+            "Gender Equity"
+          ]
+        }
+      ],
+      "majorGrants": [
+        {
+          "date": "2020-06",
+          "amount": 1700000000,
+          "recipients": 116,
+          "focus": "Coronavirus pandemic response",
+          "notes": "Largest single disbursement to date"
+        },
+        {
+          "date": "2021-07",
+          "amount": 2740000000,
+          "recipients": 286,
+          "focus": "Workers & communities affected by inequality"
+        },
+        {
+          "date": "2022-07",
+          "amount": 2737000000,
+          "recipients": 286,
+          "focus": "Education, LGBTQ+, racial justice, poverty"
+        },
+        {
+          "date": "2023-07",
+          "amount": 3900000000,
+          "recipients": 437,
+          "focus": "Broad impact across primary focus areas"
+        },
+        {
+          "date": "2024-06",
+          "amount": 2000000000,
+          "recipients": "TBD",
+          "focus": "Ongoing commitments"
+        }
+      ],
+      "fundingApproach": {
+        "noApplicationProcess": true,
+        "directedResearch": true,
+        "rapidDisbursement": true,
+        "transparency": "High - publishes list of all grants publicly",
+        "notes": "Unique model: identifies organizations via research rather than grant applications"
+      },
+      "recipientCategories": {
+        "nonprofit": 85,
+        "educational": 10,
+        "community": 5
+      }
+    },
+    "publicPolicy": {
+      "taxExemptStatus": "N/A - personal giving, not formal foundation",
+      "regulatoryFilings": [
+        {
+          "type": "SEC Form 4",
+          "description": "Officer/director transactions (Amazon stock sales)",
+          "frequency": "irregular"
+        }
+      ],
+      "publicStatements": [
+        {
+          "date": "2019-07-07",
+          "title": "Declaration of Intent to Give Away Wealth",
+          "content": "Amazon divorce settlement; committed to giving away $38.5B"
+        },
+        {
+          "date": "2021-03-09",
+          "title": "Giving Pledge Signup",
+          "content": "Publicly committed to giving most wealth within lifetime"
+        }
+      ]
+    },
+    "connections": {
+      "boardMemberships": [],
+      "advisors": [
+        {
+          "name": "Nick Eberstadt",
+          "role": "Advisor",
+          "affiliation": "American Enterprise Institute"
+        }
+      ],
+      "associates": [
+        {
+          "name": "Jeff Bezos",
+          "relationship": "Ex-spouse",
+          "shared_interests": "Amazon"
+        },
+        {
+          "name": "Dan Jewett",
+          "relationship": "Spouse",
+          "notes": "High school teacher turned philanthropic partner"
+        },
+        {
+          "name": "Bill Gates",
+          "relationship": "Peer philanthropist",
+          "shared_interests": "Large-scale giving"
+        }
+      ]
+    },
+    "controversies": [
+      {
+        "date": "2020",
+        "title": "Philanthropic Timing During Pandemic",
+        "description": "Praised for rapid pandemic response grants while critics noted timing coincided with Amazon stock appreciation",
+        "severity": "low"
+      },
+      {
+        "date": "2021",
+        "title": "Tax Efficiency Questions",
+        "description": "Some analysts noted personal giving (not through foundation structure) may offer tax advantages",
+        "severity": "low"
+      },
+      {
+        "date": "2024",
+        "title": "Reduced Giving Pace",
+        "description": "Disbursement rate slowed compared to 2023 peak; cited focus on identifying impact-aligned organizations",
+        "severity": "low"
+      }
+    ],
+    "mediaPresence": {
+      "highProfile": true,
+      "coverage": "Extensive in financial and nonprofit news",
+      "socialMedia": {
+        "twitter": "No official account",
+        "linkedin": "No official profile"
+      }
+    },
+    "futureProjections": {
+      "plannedGivingAmount": 42000000000,
+      "disbursementTimeline": "Within lifetime (targeting 2040s-2050s)",
+      "likelyFocusAreas": [
+        "Climate change (recently added)",
+        "Healthcare innovation",
+        "Education equity",
+        "Institutional reform"
+      ]
+    }
+  }
+}

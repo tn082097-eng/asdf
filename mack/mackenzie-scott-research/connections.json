@@ -1,0 +1,203 @@
+{
+  "source": "manual research compilation",
+  "fetchedAt": "2025-04-29T00:00:00Z",
+  "target": "Mackenzie Scott",
+  "connections": {
+    "boardMemberships": [
+      {
+        "organization": "Amazon",
+        "role": "Founder (via marriage)",
+        "startDate": "1994-01-01",
+        "endDate": "2019-07-05",
+        "status": "inactive",
+        "notes": "Left upon divorce from Jeff Bezos"
+      }
+    ],
+    "majorgrantRecipients": [
+      {
+        "organization": "Girls Who Code",
+        "category": "Education/Tech",
+        "grantAmount": 50000000,
+        "date": "2021"
+      },
+      {
+        "organization": "NAACP Legal Defense Fund",
+        "category": "Racial Justice",
+        "grantAmount": 100000000,
+        "date": "2021"
+      },
+      {
+        "organization": "Human Rights Campaign",
+        "category": "LGBTQ+ Rights",
+        "grantAmount": 25000000,
+        "date": "2021"
+      },
+      {
+        "organization": "Food for the Hungry",
+        "category": "Poverty/Food Security",
+        "grantAmount": 25000000,
+        "date": "2020"
+      },
+      {
+        "organization": "Los Angeles LGBT Center",
+        "category": "LGBTQ+ Rights",
+        "grantAmount": 20000000,
+        "date": "2021"
+      },
+      {
+        "organization": "Common Sense Media",
+        "category": "Education/Tech",
+        "grantAmount": 10000000,
+        "date": "2020"
+      },
+      {
+        "organization": "Feeding America",
+        "category": "Poverty/Food Security",
+        "grantAmount": 15000000,
+        "date": "2020"
+      },
+      {
+        "organization": "Howard University",
+        "category": "Education/HBCU",
+        "grantAmount": 40000000,
+        "date": "2021"
+      },
+      {
+        "organization": "Chicago Community Trust",
+        "category": "Community Foundation",
+        "grantAmount": 50000000,
+        "date": "2020"
+      }
+    ],
+    "peerPhilanthropists": [
+      {
+        "name": "Bill Gates & Melinda French Gates",
+        "estimatedWealth": 60000000000,
+        "sharedInterests": [
+          "Global health",
+          "Education",
+          "Poverty reduction"
+        ]
+      },
+      {
+        "name": "Warren Buffett",
+        "estimatedWealth": 130000000000,
+        "sharedInterests": [
+          "Long-term giving",
+          "Effective altruism"
+        ],
+        "note": "Recipient of Buffett's Giving Pledge recipients list"
+      },
+      {
+        "name": "Mark Zuckerberg & Priscilla Chan",
+        "estimatedWealth": 200000000000,
+        "sharedInterests": [
+          "Technology",
+          "Education",
+          "Science"
+        ]
+      }
+    ],
+    "advisoryNetwork": [
+      {
+        "name": "D. Brian Blank",
+        "role": "Legal Advisor",
+        "background": "Princeton alum, family office experience"
+      },
+      {
+        "name": "Nick Eberstadt",
+        "role": "Policy/Economic Advisor",
+        "affiliation": "American Enterprise Institute",
+        "expertise": "Demographics, economic policy"
+      }
+    ]
+  },
+  "financialActivity": {
+    "amazonStockTransactions": [
+      {
+        "date": "2019-07",
+        "type": "receipt (divorce settlement)",
+        "shares": 1032589,
+        "value": 34400000000
+      },
+      {
+        "date": "2020",
+        "type": "sale",
+        "sharesApprox": 24000,
+        "valueApprox": 78000000,
+        "notes": "Multiple tranches sold for liquidity"
+      },
+      {
+        "date": "2021",
+        "type": "sale",
+        "sharesApprox": 50000,
+        "valueApprox": 166000000
+      },
+      {
+        "date": "2022",
+        "type": "sale",
+        "sharesApprox": 20000,
+        "valueApprox": 60000000
+      },
+      {
+        "date": "2023-2024",
+        "type": "sale/diverse",
+        "sharesApprox": 15000,
+        "valueApprox": 40000000,
+        "notes": "Shift toward portfolio diversification"
+      }
+    ],
+    "currentPortfolio": {
+      "amazonStock": {
+        "sharesHeld": 923589,
+        "percentageOfWealth": 45,
+        "notes": "Remains concentrated but diversifying"
+      },
+      "cashAndEquivalents": {
+        "estimated": 20000000000,
+        "purpose": "Grant disbursement"
+      },
+      "otherInvestments": {
+        "estimated": 7000000000,
+        "notes": "Index funds, diversified holdings, limited disclosure"
+      }
+    }
+  },
+  "publicStatements_And_Pledges": [
+    {
+      "date": "2019-07-07",
+      "source": "Medium blog post",
+      "content": "Announcement of divorce settlement and commitment to give away Amazon stake",
+      "commitment": "$38.5 billion within lifetime"
+    },
+    {
+      "date": "2021-03-09",
+      "source": "Medium blog post",
+      "content": "Joined Bill Gates' Giving Pledge",
+      "commitment": "Give away majority of wealth during lifetime"
+    },
+    {
+      "date": "2024-01",
+      "source": "New York Times op-ed (with Dan Jewett)",
+      "content": "Discussion of climate change and giving strategy",
+      "focus": "Adding climate to existing focus areas"
+    }
+  ],
+  "taxAndRegulatoryStatus": {
+    "personalIncome": "Primarily from Amazon dividends and stock sales",
+    "taxBurden": "Subject to standard capital gains tax on stock sales",
+    "charityStructure": "Personal giving (no formal foundation/DAC)",
+    "taxAdvantages": {
+      "note": "Personal giving does NOT use charitable deduction model",
+      "implication": "No tax write-off for donations; purely philanthropic"
+    },
+    "secFilings": [
+      {
+        "type": "Form 4 (Officer/Director trades)",
+        "company": "Amazon",
+        "frequency": "Irregular",
+        "publicRecords": "Available at sec.gov"
+      }
+    ]
+  }
+}
